@@ -1,6 +1,6 @@
 # Phonebook-EFCore-ConsoleApp
 
-C# console application implementing a CRUD App using Entity Framework Core.
+C# Console CRUD App implemented using Entity Framework Core and SQL Server.
 
 **SQL Connection Test**
 <p align="center">
